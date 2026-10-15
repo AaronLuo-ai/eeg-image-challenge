@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*.pt
+*.ckpt
+*.npz
+save/
+cache/
+data/
+outputs/
+wandb/
